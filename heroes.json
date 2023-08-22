@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "1392293b-f734-4896-92ca-21611754d39a",
+      "name": "Stanislav Tselinskyi",
+      "description": "eded",
+      "element": "water"
+    },
+    {
+      "id": "785aae7f-e60c-46b0-b8e3-b11a75cd150a",
+      "name": "Vasya",
+      "description": "buhat",
+      "element": "water"
+    },
+    {
+      "id": "eba2718a-0dcd-41f7-871e-adb681f3d803",
+      "name": "ede",
+      "description": "dede",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
